@@ -142,4 +142,4 @@ La lista tendrá objetos que tienen la siguiente forma:
 }
 ```
 
-Haz la solució en el archivo `solutions/server.js` y exporta el `app` y `server` creado. Instala Express con `npm install express`. No te preocupes por CORS.
+Haz la solución en el archivo `solutions/server.js` y exporta el `app` y `server` creado. Instala Express con `npm install express`. No te preocupes por CORS.
